@@ -5,7 +5,7 @@ use Kwiki::Indexer qw(-Base);
 use mixin 'Kwiki::Installer';
 use SWISH::API;
 
-our $VERSION = "0.1.0";
+our $VERSION = '0.1.1';
 
 const class_id => 'indexer_swish';
 const class_title => 'Swish Indexer';

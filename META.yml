@@ -1,5 +1,5 @@
 name: Kwiki-Indexer-Swish
-version: 0.1.0
+version: 0.1.1
 abstract: Kwiki Plugin index and search a Kwiki using swish-e
 author: Russell Heilling <chewtoy@s8n.net
 license: perl
